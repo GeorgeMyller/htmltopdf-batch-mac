@@ -1,7 +1,6 @@
 import os
 from glob import glob
 from pathlib import Path
-from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 # Pastas de entrada e saída
