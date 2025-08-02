@@ -19,8 +19,6 @@ __pycache__/
 # VSCode
 .vscode/
 
-# Output folders
-output/
 
 # MacOS
 .DS_Store
